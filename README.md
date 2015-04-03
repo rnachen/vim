@@ -1,6 +1,6 @@
 # 超强vim配置文件
 
-[![Build Status](https://github.com/rnachen/vim.png?branch=master)
+[![Build Status](https://github.com/rnachen/vim/vim.png?branch=master)
 
 ### 运行截图
 
@@ -10,7 +10,7 @@
 
 打开终端，执行下面的命令就自动安装好了：
 
-`wget -qO- https://github.com/rnachen/setup.sh | sh -x`
+`wget -qO- https://github.com/rnachen/vim/setup.sh | sh -x`
 
 ### 或者自己手动安装：(以ubuntu为例)
 
